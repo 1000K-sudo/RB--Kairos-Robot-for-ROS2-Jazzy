@@ -2,7 +2,7 @@
 # ==============================================================================
 # RB-KAIROS — SICK TiM5xx LiDAR Visualization (RViz2)
 # Author: Kamil BENMADI <kamil.benmadi@sigma-clermont.fr>
-# GitHub: https://github.com/Uncrowned0x0
+# GitHub: https://github.com/1000K-sudo
 # ==============================================================================
 
 # Resolve workspace and package directories portably
