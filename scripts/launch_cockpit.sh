@@ -2,7 +2,7 @@
 # ==============================================================================
 # RB-KAIROS — Integrated Navigation Cockpit (ROS 2 Jazzy)
 # Author: Kamil BENMADI <kamil.benmadi@sigma-clermont.fr>
-# GitHub: https://github.com/Uncrowned0x0
+# GitHub: https://github.com/1000K-sudo
 # ==============================================================================
 # Launches in parallel and arranges on screen:
 #  1. CANopen Motor Driver (Mecanum Wheels 50Hz)     [Dedicated terminal]
