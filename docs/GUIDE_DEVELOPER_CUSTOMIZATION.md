@@ -1,6 +1,6 @@
 # RB-KAIROS: Developer Customization & Code Architecture Guide
 
-**Author:** Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/Uncrowned0x0) | [LinkedIn](https://www.linkedin.com/in/kamilb-)  
+**Author:** Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/1000K-sudo) | [LinkedIn](https://www.linkedin.com/in/kamilb-)  
 **Target Audience:** Robotics Engineers, Researchers, and Students  
 **Environment:** ROS 2 Jazzy Jalisco on Ubuntu 24.04 LTS  
 **Primary Package:** `kairos_real_bringup` (`/home/kairos/kairos_ws/src/kairos_real_bringup/`)  
@@ -284,4 +284,4 @@ ros2 topic pub --once /led_state std_msgs/msg/String "{data: 'PURPLE'}"
 
 ---
 
-*Author: Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/Uncrowned0x0) | [LinkedIn](https://www.linkedin.com/in/kamilb-)*
+*Author: Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/1000K-sudo) | [LinkedIn](https://www.linkedin.com/in/kamilb-)*
