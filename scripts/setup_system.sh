@@ -2,7 +2,7 @@
 # ==============================================================================
 # RB-KAIROS — Automated System Setup & Hardware Permissions Configuration
 # Author: Kamil BENMADI <kamil.benmadi@sigma-clermont.fr>
-# GitHub: https://github.com/Uncrowned0x0
+# GitHub: https://github.com/1000K-sudo
 # ==============================================================================
 # This script performs all required low-level system configuration for RB-KAIROS:
 #  1. Installs udev rules for persistent IMU & LED USB symlinks
