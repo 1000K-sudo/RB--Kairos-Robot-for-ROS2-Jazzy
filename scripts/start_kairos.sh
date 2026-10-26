@@ -2,7 +2,7 @@
 # ==============================================================================
 # RB-KAIROS — Master Startup, Control & Telemetry Script (ROS 2 Jazzy)
 # Author: Kamil BENMADI <kamil.benmadi@sigma-clermont.fr>
-# GitHub: https://github.com/Uncrowned0x0
+# GitHub: https://github.com/1000K-sudo
 # ==============================================================================
 
 # ANSI Colors
