@@ -1,6 +1,6 @@
 # RB-KAIROS: Remote Access, Hardware Startup & Power Guide
 
-**Author:** Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/Uncrowned0x0) | [LinkedIn](https://www.linkedin.com/in/kamilb-)  
+**Author:** Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/1000K-sudo) | [LinkedIn](https://www.linkedin.com/in/kamilb-)  
 **Target Platform:** Robotnik RB-KAIROS Omnidirectional Mobile Base  
 **Operating System:** Ubuntu 24.04 LTS (Kernel 6.8)  
 **Middleware:** ROS 2 Jazzy Jalisco  
@@ -188,4 +188,4 @@ ls -l /dev/ttyUSB_IMU /dev/ttyUSB_LEDS
 
 ---
 
-*Author: Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/Uncrowned0x0) | [LinkedIn](https://www.linkedin.com/in/kamilb-)*
+*Author: Kamil BENMADI (<kamil.benmadi@sigma-clermont.fr>) — [GitHub](https://github.com/1000K-sudo) | [LinkedIn](https://www.linkedin.com/in/kamilb-)*
